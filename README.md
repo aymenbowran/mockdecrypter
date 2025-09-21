@@ -20,7 +20,7 @@
 
  ---
 
- ## 🚫 What It **NOT** Does
+ ## 🚫 What It **DOESN'T** do
 
  - No actual encryption or decryption.
  BitLocker and other cryptosystems are not integrated.
